@@ -138,7 +138,6 @@ function clearHistory(event){
 
 }
 $("#search-button").on("click",displayWeather);
-
 $("#clear-history").on("click",clearHistory);
 
 
